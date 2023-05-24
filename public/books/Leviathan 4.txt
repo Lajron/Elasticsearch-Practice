@@ -1,0 +1,18 @@
+ for proper names, or just
+because, I have capitalized the initial letter of the words. This has
+the disadvantage that they are not then distinguished from those that
+Hobbes capitalized in plain text, but the extent of his italics would
+make the text very ugly if I was to use an underscore or slash.
+
+Where the margin notes are either to introduce the paragraph subject,
+or to show where he introduces word definitions, I have included them as
+headers to the paragraph, again with all words having initial capitals,
+and on a shortened line.
+
+For margin references to quotes, I have included them in the text,
+in brackets immediately next to the quotation. Where Hobbes included
+references in the main text, I have left them as he put them, except to
+change his square brackets to round.
+
+For the Greek alphabet, I have simply substituted the nearest ordinary
+letters that I can

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Elasticsearch project</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <h1>Elasticsearch</h1>
+        <div>
+            <button id="indexing">Index files on the server</button>
+        </div>
+
+        <hr>
+
+        <div>
+            <select id="searchField">
+                <option value="name">Title</option>
+                <option value="content">Content</option>
+                <option value="size">File size in bytes</option>
+            </select>
+            <br><br>
+            <input type="text" id="searchText" name="text" placeholder="Insert text">
+            <button id="searchButton">Search</button>
+        </div>
+        
+        <br>
+        <div id="searchResultsTable">
+        </div>
+
+
+
+        <script src="jquery-3.7.0.min.js"></script>
+        <script type="module" src="main.js"></script>
+    </body>
+</html>
